@@ -1,0 +1,52 @@
+
+.alert{
+    color:red;
+    float: right;
+}
+
+html {
+  background-color: #B9FFA2;
+}
+
+
+h3 {
+  font-family: 'Julius Sans One', sans-serif;
+  font-size: 30px;
+  font-weight: bolder;
+  text-align: center;
+
+}
+
+
+form {
+  background: #98D185;
+  margin: 0 auto;
+  width: 600px;
+  height: 550px;
+  border: 5px solid;
+  position: relative;
+  line-height: 20px;
+}
+
+table tr {
+  height: 50px;
+}
+
+input {
+  padding-bottom: 5px;
+}
+
+input#submitForm {
+  right: 20px;
+  width: 100px;
+  border: 2px dotted;
+  margin-bottom: 5px;
+
+}
+
+input#resetForm {
+  width: 100px;
+  border: 2px dotted;
+  display: flex;
+
+}
